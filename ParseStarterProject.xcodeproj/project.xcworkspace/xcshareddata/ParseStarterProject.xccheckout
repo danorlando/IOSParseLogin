@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>69D27FBD-47CB-4C2B-8BF0-745E9EC70C98</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ParseStarterProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C6BF6884-7560-4C5E-B3B4-92E14D108710</key>
+		<string>ssh://github.com/hungrylabs/hungry.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios-client/ParseStarterProject/ParseStarterProject.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C6BF6884-7560-4C5E-B3B4-92E14D108710</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/hungrylabs/hungry.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C6BF6884-7560-4C5E-B3B4-92E14D108710</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C6BF6884-7560-4C5E-B3B4-92E14D108710</string>
+			<key>IDESourceControlWCCName</key>
+			<string>hungry</string>
+		</dict>
+	</array>
+</dict>
+</plist>
